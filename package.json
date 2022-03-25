@@ -6,7 +6,7 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron": "^9.0.0"
+    "electron": "^13.6.6"
   },
   "dependencies": {
     "tesseract.js": "^2.1.1"
